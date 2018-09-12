@@ -1,0 +1,34 @@
+header{
+  color:#8cf442;
+  overflow:hidden;
+  font-size:40px;
+  position:fixed;
+  background-color:#f441ca;
+  width:80%;
+  font-family:"Lucida Sans Unicode";
+}
+
+.backgound {
+  height:100%;
+}
+
+img{
+  border-width: 8px;
+  border-color: black;
+  border-style:solid;
+  width: 600px;
+  height: 250px;
+  margin: 30px;
+  vertical-align: baseline;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer{
+  color:black;
+  text-align:right;
+}
