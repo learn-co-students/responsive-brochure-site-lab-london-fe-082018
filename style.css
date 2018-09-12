@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1517340650606-17091f8e86ed?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=482d7b9e568749badbb3451a90e72073&auto=format&fit=crop&w=1350&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+header {
+  text-align: center;
+  color: red;
+  font-size: 50px;
+}
+
+.chiefs-haka {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+  color: white;
+}
+
+.winning {
+    width: 500px;
+}
+
+.stadium-birdseye{
+    width: 500px;
+}
+
+/* .flex-container-all {
+  display: flex;
+}
+
+
+.flex-container {
+  display: flex;
+  
+}
+
+*/
+
+footer {
+  text-align: center; 
+  font-size: 0.75em;
+  padding: 10px;
+  background: #eee;
+  border-top: 1px solid; 
+}
