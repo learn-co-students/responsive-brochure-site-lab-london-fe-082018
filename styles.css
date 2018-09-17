@@ -1,7 +1,9 @@
 body {
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
-	background-image: url("https://images.unsplash.com/photo-1536632856133-3a3441454dd5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=150163553a94bdead8eebd9d6bf43280&auto=format&fit=crop&w=800&q=60");
+	background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=32a9c4941b484a53036a8c9492638dfb&auto=format&fit=crop&w=800&q=60");
+	background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header {
@@ -50,7 +52,7 @@ footer {
   font-size: 0.8em;
   width: 960px;
 	margin: 0 auto;
-	background: #808000;
+	background-image: url("https://images.unsplash.com/photo-1524882343900-7fabca41cd25?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=60a9aca199f9cb1476207e803afe8c4f&auto=format&fit=crop&w=800&q=60");
 	padding: 0 45px 20px;
   
 }
