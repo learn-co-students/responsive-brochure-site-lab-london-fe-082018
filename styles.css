@@ -1,6 +1,5 @@
 body {
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
 	background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=32a9c4941b484a53036a8c9492638dfb&auto=format&fit=crop&w=800&q=60");
 	background-repeat: no-repeat;
   background-size: cover;
@@ -40,17 +39,18 @@ h2 {
 }
 
 p {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  font-family: 'Lobster', cursive;
+  font-family: 'Kalam', cursive;
 }
 
 #quote {
-    text-indent: 35%;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-family: 'Lobster', cursive;
-    font-family: 'Pacifico', cursive;
+    margin-left: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: gray;
 }
 
+#footer-text {
+  color: white;
+}
 
 img {
     border: 5px #ccc solid ;
@@ -68,7 +68,7 @@ img {
 
 footer {
   text-align: center;
-  font-size: 0.8em;
+  font-size: 100%;
   width: 100%;
 	margin: 0 auto;
 	background-color: rgb(44,105,132);
