@@ -8,38 +8,72 @@ header {
   text-align: center;
   color: red;
   font-size: 50px;
+  font-family: 'Paytone One', sans-serif;
+  
+}
+
+h2 {
+  text-align: center;
 }
 
 .chiefs-haka {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
 }
 
 p {
-  color: white;
+  color: black;
 }
 
 .winning {
-    width: 500px;
+    width: 100%;
 }
 
 .stadium-birdseye{
-    width: 500px;
+    width: 100%;
 }
 
-/* .flex-container-all {
+.flex-container-all {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 50px;
 }
-
 
 .flex-container {
   display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 500px;
+  background-color: rgba(255,255,255,0.7);
+  padding: 10px;
   
 }
 
-*/
+/* for tablets at 900px */
+@media (max-width: 900px) {
+  body {
+   font-size: 85%;
+  }
+}
+
+/* for screen at 750px */
+@media (max-width: 750px) {
+   h1 {
+    font-size: 70%;
+  }
+  
+  .chiefs-haka {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+  
+}
 
 footer {
   text-align: center; 
