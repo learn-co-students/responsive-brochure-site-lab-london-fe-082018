@@ -1,0 +1,56 @@
+body {
+  background-color: #818A86;
+  margin:0px;
+}
+
+
+#heading {
+  color: #894F90;
+  font-family: Sans-Serif;
+    font-size: 300px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.fa-bicycle {
+  color: #894F90;
+  font-size: 50px;
+}
+
+.heading-container {
+  display: flex;
+  align-items: baseline;
+  color: #894F90;
+  font-family: Sans-Serif;
+    font-size: 300px
+}
+
+.cycling-video {
+  background-color: #d3ccc0;
+}
+video {
+  display: flex;
+  text-align: stretch;
+}
+
+
+.pics {
+  height: 300px;
+  width: 25%;
+}
+
+
+
+.pics-container {
+   display: flex;
+  flex-flow: row wrap;
+  align-content: space-aroundstretch;
+
+  
+}
+
+footer {
+  text-align: center;
+  color: #894F90;
+  font-family: Sans-Serif;
+  font-size: 10px;
+}
