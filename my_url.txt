@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 http://sincere-planes.surge.sh
+=======
+http://sincere-planes.surge.sh
+>>>>>>> 3b95dbec338ad4ae017a209c4527d306610ca912
